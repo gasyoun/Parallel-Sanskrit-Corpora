@@ -1,0 +1,30 @@
+{
+  "dataset_id": "dcs-parallel-passages-full",
+  "handoff": "H4707",
+  "generated": "15-09-2026",
+  "source_dir": "derived-data/Paralleli-v-tekstah-korpusa-SRC/PARA/Polnorazmernye",
+  "files": 245,
+  "source_segments": 501231,
+  "matches_total": 154033,
+  "verdicts": {
+    "GOOD": 14557,
+    "PARTLY": 139476
+  },
+  "distinct_source_works": 145,
+  "distinct_target_works": 447,
+  "malformed_lines": 0,
+  "archive_dir": "derived-data/Paralleli-v-tekstah-korpusa-SRC/PARA/Polnorazmernye-2022-archive",
+  "archive_pair_hashes": 115889,
+  "frozen_sample": {
+    "n": 200,
+    "seed": 4707,
+    "strategy": "round-robin over seeded-shuffled files"
+  },
+  "recall_on_frozen_sample": {
+    "sample_n": 200,
+    "parser_roundtrip_recall": 1.0,
+    "parser_roundtrip_hits": 200,
+    "archive_overlap_recall": 0.985,
+    "archive_overlap_hits": 197
+  }
+}

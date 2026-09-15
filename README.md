@@ -1,22 +1,29 @@
 # Parallel-Sanskrit-Corpora
 
-_Created: 14-06-2026 · Last updated: 11-07-2026_
+_Created: 14-06-2026 · Last updated: 15-09-2026_
 
 Parallel Sanskrit corpora aligned with European-language translations.
 
-## Status — placeholder repository
+## Status — first derived layer landed (H4707)
 
-This repository is currently a **reserved placeholder**: no aligned corpus data has
-been committed yet. As of 11-07-2026 the tracked contents are only repository
-scaffolding:
+The repository now holds its **first derived content**: the DCS parallel-passage
+QA/recall baseline (kosha dataset `dcs-parallel-passages-full`, census consumer A2):
+
+- [`H4707_DCS_PARALLELS_QA_BASELINE_15-09-2026.md`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/H4707_DCS_PARALLELS_QA_BASELINE_15-09-2026.md) — baseline comparison report (154,033 candidate parallels across 245 DCS source files; GOOD 14,557 / PARTLY 139,476; recall verified on a frozen 200-row sample).
+- [`tools/build_baseline.py`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/tools/build_baseline.py) — deterministic builder (`python3 tools/build_baseline.py` to rebuild, `--check` to re-verify the frozen sample).
+- [`data/dcs-parallels-baseline/`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/tree/master/data/dcs-parallels-baseline) — joined metrics CSV + summary JSON + frozen sample.
+
+The 59 MB source dataset lives in
+[`VisualDCS/…/PARA/Polnorazmernye/`](https://github.com/gasyoun/VisualDCS/tree/main/derived-data/Paralleli-v-tekstah-korpusa-SRC/PARA/Polnorazmernye);
+only small derived artifacts are committed here. Sentence-/verse-aligned
+Sanskrit↔European-language corpus data is still to come; the GOOD baseline
+pairs are the recall reference set for that future alignment work.
+
+## Repository scaffolding
 
 - [`LICENSE`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/LICENSE) — MIT License, © 2019 Mārcis Gasūns.
 - [`.github/dependabot.yml`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/.github/dependabot.yml) — Dependabot configuration.
 - [`.github/workflows/dependabot-auto-merge.yml`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/.github/workflows/dependabot-auto-merge.yml) — auto-merge workflow for Dependabot PRs.
-
-There is no build, test suite, or corpus content in the repository at this time. The
-GitHub repository itself dates to 2019; the current git history was re-initialised on
-14-06-2026.
 
 ## Intended scope
 
