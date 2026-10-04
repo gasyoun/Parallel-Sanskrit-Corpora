@@ -1,0 +1,136 @@
+sa_idx,ru_idx,sa_text,ru_text,in_gold
+0,0,"dhṛtarāṣṭra uvāca","Дхритараштра сказал: «О Санджая",1
+1,1,"dharmakṣetre kurukṣetre samavetā yuyutsavaḥ","Что сделали в жажде войны мои сыновья и сыновья Панду, сойдясь на священной земл",1
+2,2,"māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya","Санджая сказал: «Увидев выстроившуюся армию Пандавов, царь Дурьодхана приблизилс",0
+3,3,"sañjaya uvāca","“О учитель, прошу, взгляни на это великое войско сыновей Панду, выстроенное твои",0
+4,3,"dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā","“О учитель, прошу, взгляни на это великое войско сыновей Панду, выстроенное твои",0
+5,4,"ācāryamupasaṅgamya rājā vacanamabravīt","Здесь, на этом поле боя, великие лучники, герои из героев, подобные Бхиме и Ардж",0
+6,4,"paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm","Здесь, на этом поле боя, великие лучники, герои из героев, подобные Бхиме и Ардж",0
+7,5,"vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā","Здесь Ююдхана, Вирата и великий воин Друпада",0
+8,6,"atra śūrā maheṣvāsā bhīmārjunasamā yudhi","Здесь Дхриштакету, Чекитана, могущественный царь Каши, Кунтибходжа, Пуруджит и Ш",0
+9,7,"yuyudhāno virāṭaśca drupadaśca mahārathaḥ","Доблестный Юдхаманью, могущественный Уттамауджа, сыны Субхадры и Драупади – все ",0
+10,8,"dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān","О лучший из брахманов",0
+11,9,"purujitkuntibhojaśca śaibyaśca narapuṅgavaḥ","Прошу, узнай также о главных воинах с нашей стороны",0
+12,10,"yudhāmanyuśca vikrānta uttamaujāśca vīryavān","Я перечислю их имена для тебя",0
+13,12,"saubhadro draupadeyāśca sarva eva mahārathāḥ","Все они хорошо вооружены и искусны в бою",0
+14,13,"asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama","Наши силы, защищенные Бхишмой, неизмеримы, их же силы, защищаемые Бхимой, ограни",0
+15,14,"nāyakā mama sainyasya sañjñārthaṃ tānbravīmi te","Каждый из вас должен всячески защищать Бхишму, заняв соответствующую позицию в с",0
+16,15,"anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ","Тогда Бхишма, доблестный старец из рода Кауравов, воодушевляя его, громко затруб",0
+17,16,"nānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ","Затем зазвучали раковины и горны, большие и маленькие барабаны",0
+18,17,"aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam","Звук этот был чрезвычайно устрашающим",0
+19,18,"paryāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam","Тогда, восседая на огромной колеснице, запряженной белыми лошадьми, Мадхава и Па",0
+20,19,"ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ","Хришикеша затрубил в раковину Панчаджанья, Дхананджая затрубил в раковину Девада",0
+21,20,"bhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi","Царь Юдхиштхира, сын Кунти, затрубил в Анантавиджаю, а Накула и Сахадева – в Суг",0
+22,21,"tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ","Великий лучник царь Каши, великий герой Шикханди, Дхриштадьюмна, Вирата и непобе",0
+23,23,"siṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān","От этого ужасного звука, с грохотом сотрясавшего небо и землю, сердца сынов Дхри",0
+24,26,"tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ","Я хочу видеть воинов, пришедших помочь злонамеренному сыну Дхритараштры в войне”",0
+25,27,"sahasaivābhyahanyanta sa śabdastumulo'bhavat","Санджая сказал: «О Бхарата",0
+26,29,"tataḥ śvetairhayairyukte mahati syandane sthitau","Посмотри на это скопление Кауравов”",0
+27,31,"mādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ","Увидев их всех, стоящих в строю, так молвил Каунтея, сокрушаясь, переполненный с",0
+28,32,"pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ","Арджуна сказал: “О Кришна",0
+29,33,"pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ","При виде моих близких, собравшихся здесь ради сражения, члены мои слабеют, а уст",0
+30,33,"anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ","При виде моих близких, собравшихся здесь ради сражения, члены мои слабеют, а уст",0
+31,34,"nakulaḥ sahadevaśca sughoṣamaṇipuṣpakau","Мое тело бьет дрожь, а волосы встают дыбом",0
+32,35,"kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ","☝ Лишь тот, кто потерялся в собственных мыслях, боится оказаться перед толпой",0
+33,36,"dhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ","В то время как тот, кто выбрал одну единственную мысль из множества и упражнялся",0
+34,37,"drupado draupadeyāśca sarvaśaḥ pṛthivīpate","Выпадает из рук лук Гандива, моя кожа пылает, мой ум помутился",0
+35,38,"saubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak","Я не в силах стоять спокойно",0
+36,39,"sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat","О Кешава",0
+37,40,"nabhaśca pṛthivīṃ caiva tumulo vyanunādayan","Мне предстают лишь дурные предзнаменования, я не вижу ничего хорошего в убийстве",0
+38,41,"atha vyavasthitāndṛṣṭvā dhārtarāṣṭrānkapidhvajaḥ","О Кришна",0
+39,42,"pravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ","Я не желаю ни победы, ни царства, ни удовольствий",0
+40,43,"hṛṣīkeśaṃ tadā vākyamidamāha mahīpate","О Говинда, зачем нам царство и какой смысл в наслаждениях и самой жизни",0
+41,45,"senayorubhayormadhye rathaṃ sthāpaya me'cyuta","Здесь наставники, дяди, сыновья, а также деды, близкие, внуки и другие родственн",0
+42,46,"yāvadetānnirīkṣe'haṃ yoddhukāmānavasthitān","О Мадхусудана",0
+43,48,"kairmayā saha yoddhavyamasminraṇasamudyame","О Джанардана",0
+44,49,"yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ","Что за радость нам в убийстве сынов Дхритараштры",0
+45,49,"dhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ","Что за радость нам в убийстве сынов Дхритараштры",0
+46,50,"evamukto hṛṣīkeśo guḍākeśena bhārata","Лишь грех падет на нас за убийство этих варваров",0
+47,51,"senayorubhayormadhye sthāpayitvā rathottamam","О Мадхава",0
+48,52,"bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām","Не должно нам убивать сыновей Дхритараштры",0
+49,53,"uvāca pārtha paśyaitānsamavetānkurūniti","Станем ли мы счастливее, убив наших близких",0
+50,54,"tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān","Их ум затмевает жадность, оттого не осознают они греха во вражде с друзьями и бе",0
+51,55,"ācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā","О Джанардана",0
+52,56,"śvaśurānsuhṛdaścaiva senayorubhayorapi","Почему же нам не подумать о том, чтобы воздержаться от этого греха, ведь уничтож",0
+53,57,"tānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān","С истреблением рода рушится вековое кровное родство",0
+54,58,"kṛpayā parayāviṣṭo viṣīdannidamabravīt","Когда дхарма приходит в упадок, род предается бесчестью",0
+55,59,"dṛṣṭvemānsvajanānkṛṣṇa yuyutsūnsamavasthitān","О Шри Кришна",0
+56,60,"sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati","Когда возрастает бесчестье, развращаются женщины рода",0
+57,61,"vepathuśca śarīre me romaharṣaśca jāyate","О Варшнея, развращение женщин приводит к смешению варн",0
+58,62,"gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate","Смешение варн непременно низвергает в ад род и губителей рода",0
+59,63,"na ca śaknomyavasthātuṃ bhramatīva ca me manaḥ","Даже предки лишаются почтения без соблюдения обрядов пинды и тарпаны",0
+60,64,"nimittāni ca paśyāmi viparītāni keśava","Злодеяние, приводящее к смешению каст, разрушает проверенные временем законы и т",0
+61,65,"na ca śreyo'nupaśyāmi hatvā svajanamāhave","О Джанардана",0
+62,66,"na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca","Известно, что людям, поправшим семейные устои, суждено бесконечно гнить в аду",0
+63,67,"kiṃ no rājyena govinda kiṃ bhogairjīvitena vā","Как горько, что мы готовы совершить столь тяжкий грех",0
+64,68,"yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca","Мы собираемся убить наших близких ради жажды услад царской жизни",0
+65,69,"ta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca","Я предпочел бы умереть в бою безоружным, не давая отпора, от рук вооруженных сын",0
+66,70,"ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ","Санджая сказал: «Сокрушенный горем на поле боя, так молвил Арджуна",0
+67,71,"mātulāḥ śvaśurāḥ pautrāḥ syālāḥ sambandhinastathā","Он оставил свой лук и стрелы и сел в колеснице",0
+68,72,"etānna hantumicchāmi ghnato'pi madhusūdana","Санджая сказал: «Тогда Арджуне, скорбящему, с глазами, полными слез сожаления, М",0
+69,73,"api trailokyarājyasya hetoḥ kiṃ nu mahīkṛte","Господь сказал: “О Арджуна, что ввело тебя в заблуждение в такой нелегкой ситуац",0
+70,74,"nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana","Это не похоже на поведение великих людей, не дарует тебе рая, не принесет тебе с",0
+71,75,"pāpamevāśrayedasmānhatvaitānātatāyinaḥ","О Партха, не поддавайся бессилию, оно тебе не подобает",0
+72,75,"tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsabāndhavān","О Партха, не поддавайся бессилию, оно тебе не подобает",0
+73,76,"svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava","О Парантапа, отбрось эту ничтожную слабость сердца и готовься к сражению”",0
+74,77,"yadyapyete na paśyanti lobhopahatacetasaḥ","Арджуна сказал: “О Мадхусудана, как могу я пускать в сражении стрелы в Бхишму и ",0
+75,77,"kulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam","Арджуна сказал: “О Мадхусудана, как могу я пускать в сражении стрелы в Бхишму и ",0
+76,78,"kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum","Ведь я почитаю их обоих",0
+77,79,"kulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana","Уж лучше просить милостыню в этом мире, чем убить таких великих учителей",0
+78,79,"kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ","Уж лучше просить милостыню в этом мире, чем убить таких великих учителей",0
+79,80,"dharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta","Убив их, я буду наслаждаться богатством и чувственными удовольствиями, пропитанн",0
+80,81,"adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ","Мы не ведаем, что лучше для нас: мы ли одержим победу над ними или они одолеют н",0
+81,81,"strīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ","Мы не ведаем, что лучше для нас: мы ли одержим победу над ними или они одолеют н",0
+82,82,"saṅkaro narakāyaiva kulaghnānāṃ kulasya ca","Перед нами стоят сыновья Дхритараштры, убив которых, мы сами жить не пожелаем",0
+83,83,"patanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ","Стоя на распутье, я исполнен жалости и не понимаю, в чем мой долг, потому я, тво",0
+84,83,"doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ","Стоя на распутье, я исполнен жалости и не понимаю, в чем мой долг, потому я, тво",0
+85,84,"utsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ","Даже полное изобилия царство и власть над богами не могли бы развеять печаль, ис",0
+86,84,"utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana","Даже полное изобилия царство и власть над богами не могли бы развеять печаль, ис",0
+87,85,"narake niyataṃ vāso bhavatītyanuśuśruma","Санджая сказал: «О Парантапа",0
+88,86,"aho bata mahatpāpaṃ kartuṃ vyavasitā vayam","Сказав Хришикеше ясно: “Говинда, не буду сражаться",0
+89,87,"yadrājyasukhalobhena hantuṃ svajanamudyatāḥ","” – Гудакеша умолк",0
+90,88,"yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ","О Бхарата",0
+91,89,"dhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet","Ему, стоящему в печали меж двух армий, Хришикеша, смеясь, сказал такие слова",0
+92,90,"evamuktvārjunaḥ saṅkhye rathopastha upāviśat","Господь сказал: “Ты сокрушаешься о тех, о ком печалиться не стоит",0
+93,91,"visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ","Ты ведешь премудрые речи, но мудрецы не скорбят ни о живых, ни о мертвых",0
+94,94,"sañjaya uvāca","Для таких великих людей нет разницы между наличием или отсутствием тела",0
+95,94,"taṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam","Для таких великих людей нет разницы между наличием или отсутствием тела",0
+96,95,"viṣīdantamidaṃ vākyamuvāca madhusūdanaḥ","Никогда не было так, чтобы не существовал Я, ты или эти цари",0
+97,95,"śrībhagavānuvāca","Никогда не было так, чтобы не существовал Я, ты или эти цари",0
+98,96,"kutastvā kaśmalamidaṃ viṣame samupasthitam","И в будущем все мы не прекратим существование",0
+99,96,"anāryajuṣṭamasvargyamakīrtikaramarjuna","И в будущем все мы не прекратим существование",0
+100,97,"klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate","☝ Проявляется сознание посредством тела или нет, его непроявленное присутствие с",0
+101,98,"kṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa","Не стоит также полагать, что, когда какое-либо из проявлений сознания подходит к",0
+102,99,"arjuna uvāca","Проявляясь или пребывая непроявленным, сознание присутствует всегда",0
+103,100,"kathaṃ bhīṣmamahaṃ saṅkhye droṇaṃ ca madhusūdana","Как это тело воплощенного проходит через детство, юность и старость, так и сам в",0
+104,101,"iṣubhiḥ pratiyotsyāmi pūjārhāvarisūdana","Мудрые не заблуждаются по этому поводу",0
+105,102,"gurūnahatvā hi mahānubhāvāñśreyo bhoktuṃ bhaikṣamapīha loke","☝ То непроявленное сознание, проявляющееся посредством тела и всегда присутствую",0
+106,102,"hatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogānrudhirapradigdhān","☝ То непроявленное сознание, проявляющееся посредством тела и всегда присутствую",0
+107,103,"na caitadvidmaḥ kataranno garīyo yadvā jayema yadi vā no jayeyuḥ","Это сознание, будучи проявленным в теле, кажется ограниченным тремя состояниями ",0
+108,104,"yāneva hatvā na jijīviṣāmaste'vasthitāḥ pramukhe dhārtarāṣṭrāḥ","Когда тело увядает, сознание, оставив ослабевшее тело, проявляет себя при помощи",0
+109,105,"kārpaṇyadoṣopahatasvabhāvaḥ pṛcchāmi tvāṃ dharmasammūḍhacetāḥ","О Каунтея",0
+110,106,"yacchreyaḥ syānniścitaṃ brūhi tanme śiṣyaste'haṃ śādhi māṃ tvāṃ prapannam","Соединения чувств с их объектами создают ощущения холода и жары, счастья и горя,",0
+111,107,"na hi prapaśyāmi mamāpanudyādyacchokamucchoṣaṇamindriyāṇām","Принимай их спокойно, о Бхарата",0
+112,108,"avāpya bhūmāvasapatnamṛddhaṃ rājyaṃ surāṇāmapi cādhipatyam","☝ Проявляясь посредством тела и принимая ограничения тела и органов чувств, созн",0
+113,110,"sañjaya uvāca","О Пурушашрештха",0
+114,111,"evamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapa","Тот великий человек, кто считает равными счастье и горе, при этом оставаясь непо",0
+115,114,"na yotsya iti govindamuktvā tūṣṇīṃ babhūva ha","Понимающий это пробуждает всю безграничность своего дремлющего сознания, проходи",0
+116,115,"tamuvāca hṛṣīkeśaḥ prahasanniva bhārata","Неистинное [Асат] не существует, истинное же [Сат] не может не существовать",0
+117,116,"senayorubhayormadhye viṣīdantamidaṃ vacaḥ","Познавшие суть изучили природу и того, и другого",0
+118,117,"śrībhagavānuvāca","☝ Обычные люди в состоянии использовать лишь незначительную часть своего полного",0
+119,117,"aśocyānanvaśocastvaṃ prajñāvādāṃśca bhāṣase","☝ Обычные люди в состоянии использовать лишь незначительную часть своего полного",0
+120,118,"gatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ","А безграничное сознание во всей его полноте, дремлющее внутри каждого и пребываю",0
+121,120,"na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ","Мудрецы понимают относительность спящего и пробужденного сознания",0
+122,121,"na caiva na bhaviṣyāmaḥ sarve vayamataḥ param","Практикуя йогу, они поднимаются над ограничениями тела и достигают успеха в проб",0
+123,122,"dehino'sminyathā dehe kaumāraṃ yauvanaṃ jarā","Для таких людей более не существует неистинного",0
+124,123,"tathā dehāntaraprāptirdhīrastatra na muhyati","Они осознают, что, хотя неистинное и кажется существующим, из-за того, что созна",0
+125,125,"mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ","Неразрушимо То, что все пронизывает",0
+126,126,"āgamāpāyino'nityāstāṃstitikṣasva bhārata","Никто не способен разрушить То неуничтожимое",0
+127,127,"yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha","☝ Это ослепительно сияющее непроявленное Время проявляется посредством всего вид",0
+128,128,"samaduḥkhasukhaṃ dhīraṃ so'mṛtatvāya kalpate","Оно нерушимо – никто не способен уничтожить истину Этого вечного Времени",0
+129,129,"nāsato vidyate bhāvo nābhāvo vidyate sataḥ","Бренными считаются все физические тела, но То, что воплощается в них, нерушимо, ",0
+130,130,"ubhayorapi dṛṣṭo'ntastvanayostattvadarśibhiḥ","Поэтому, о Бхарата, сражайся",0
+131,131,"avināśi tu tadviddhi yena sarvamidaṃ tatam","☝ Все это творение проявляется Тем невыносимо ярким непроявленным Временем",0
+132,132,"vināśamavyayasyāsya na kaścitkartumarhati","Из Того же Непроявленного возникает и ум, обладающий безграничным сознанием и пр",0
+133,134,"antavanta ime dehā nityasyoktāḥ śarīriṇaḥ","Безграничный ум, с помощью этого тела пробуждая свое спящее сознание, способен п",1
+134,135,"anāśino'prameyasya tasmādyudhyasva bhārata","Тело, являющееся опорой того необъятного сознания, тленно, но то проявляющееся п",1
