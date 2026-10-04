@@ -1,6 +1,6 @@
 # Parallel-Sanskrit-Corpora
 
-_Created: 14-06-2026 · Last updated: 15-09-2026_
+_Created: 14-06-2026 · Last updated: 05-10-2026_
 
 Parallel Sanskrit corpora aligned with European-language translations.
 
@@ -18,6 +18,19 @@ The 59 MB source dataset lives in
 only small derived artifacts are committed here. Sentence-/verse-aligned
 Sanskrit↔European-language corpus data is still to come; the GOOD baseline
 pairs are the recall reference set for that future alignment work.
+
+## SA↔RU sentence aligner — first tool layer, measured (H6070)
+
+- [`tools/sandhi_tokenize.py`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/tools/sandhi_tokenize.py) ·
+  [`tools/align_sentences.py`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/tools/align_sentences.py) ·
+  [`tools/align_sa_ru.py`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/tools/align_sa_ru.py) —
+  sandhi-aware IAST tokenizer + monotonic DP aligner (IAST→Cyrillic
+  transliteration bridge for proper names + Gale-Church length term) +
+  evaluation harness over SamudraManthanam verse-aligned JSONL.
+- [`H6070_SA_RU_ALIGNER_EVALUATION_04-10-2026.md`](https://github.com/gasyoun/Parallel-Sanskrit-Corpora/blob/master/H6070_SA_RU_ALIGNER_EVALUATION_04-10-2026.md) —
+  the honest-negative evaluation report: the ≥0.9 accuracy goal was **not**
+  met within the stop budget (measured 0.03–0.13 on the frozen BhG sample);
+  diagnosis and the bilingual-lexicon repair path are documented there.
 
 ## Repository scaffolding
 
